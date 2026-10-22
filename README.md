@@ -17,20 +17,20 @@ Across the five portfolio modules, the project demonstrates advanced relational 
 
 The repository is organized into dedicated directories matching the required project structure[cite: 37]:
 
-- **`portfolio-1-database-design/`**
-  - Contains deliverables for Portfolio 1: Case study description, normalized relational schema, ERD blueprint, explicit constraints, and mock data population.
+- **[`portfolio-1-database-design/`](./portfolio-1-database-design)**  
+  Contains deliverables for Portfolio 1: Case study description, normalized relational schema, ERD blueprint, explicit constraints, and mock data population.
 
-- **`portfolio-2-query-optimisation/`**
-  - Contains deliverables for Portfolio 2: Analytical SQL queries, execution plan tuning (`EXPLAIN ANALYZE`), and B-Tree indexing performance analysis.
+- **[`portfolio-2-query-optimisation/`](./portfolio-2-query-optimisation)**  
+  Contains deliverables for Portfolio 2: Analytical SQL queries, execution plan tuning (`EXPLAIN ANALYZE`), and B-Tree indexing performance analysis.
 
-- **`portfolio-3-transactions-concurrency/`**
-  - Contains deliverables for Portfolio 3: ACID transaction management (`COMMIT` and `ROLLBACK`), row-level concurrency control (`SELECT ... FOR UPDATE`), and strict isolation levels (`SERIALIZABLE`).
+- **[`portfolio-3-transactions-concurrency/`](./portfolio-3-transactions-concurrency)**  
+  Contains deliverables for Portfolio 3: ACID transaction management (`COMMIT` and `ROLLBACK`), row-level concurrency control (`SELECT ... FOR UPDATE`), and strict isolation levels (`SERIALIZABLE`).
 
-- **`portfolio-4-nosql/`**
-  - Contains deliverables for Portfolio 4: NoSQL document store model implemented via MongoDB Atlas, schema suitability analysis, and implementation evidence.
+- **[`portfolio-4-nosql/`](./portfolio-4-nosql)**  
+  Contains deliverables for Portfolio 4: NoSQL document store model implemented via MongoDB Atlas, schema suitability analysis, and implementation evidence.
 
-- **`portfolio-5-distributed-cloud/`**
-  - Contains deliverables for Portfolio 5: Cloud database deployment, replica sets, sharding configuration, and CAP Theorem trade-offs.
+- **[`portfolio-5-distributed-cloud/`](./portfolio-5-distributed-cloud)**  
+  Contains deliverables for Portfolio 5: Cloud database deployment, replica sets, sharding configuration, and CAP Theorem trade-offs.
 
 ---
 
