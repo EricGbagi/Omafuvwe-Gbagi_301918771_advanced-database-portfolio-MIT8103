@@ -32,6 +32,9 @@ You can access each portfolio deliverable directly from the files below:
 - **[Portfolio 5: Distributed and Cloud Database Architecture](./portfolio-5-distributed-cloud.pdf)**  
   Contains cloud database deployment, replica sets, sharding configuration, and CAP Theorem trade-offs.
 
+  ### Final Project Submission
+* **[Final Documentation & Project Summary (PDF)](./final-documentation.pdf)** — Comprehensive 3-page summary of the Stretto Technologies enterprise database architecture, covering executive summary, portfolio evidence review, individual reflection, and references.
+
 ---
 
 ## Technical Stack
